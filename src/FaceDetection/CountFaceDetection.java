@@ -33,8 +33,6 @@ public class CountFaceDetection extends javax.swing.JFrame {
     }
     
     public void getImage(String path) {
-        imgLabel.setText("Loading...");
-        
         System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
         CascadeClassifier faceDetector = new CascadeClassifier(); 
         faceDetector.load("haarcascade_frontalface_alt.xml");
