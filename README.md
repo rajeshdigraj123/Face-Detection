@@ -10,10 +10,10 @@ Built in Java Environment and OpenCV
 ## Usage
 This project developed by using NetBeans IDE.
 * Before run the source code, you may run the compiler 
-``` javac FaceDetection.java ```
+``` javac CountFaceDetection.java ```
 
 * After compiled, you can run the sorce code
-``` java FaceDetection ```
+``` java CountFaceDetection ```
 
 ## Screenshot
 
