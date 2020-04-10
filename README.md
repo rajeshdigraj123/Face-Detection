@@ -10,6 +10,6 @@ Built in Java Environment and OpenCV
 ## Screenshot
 
 <p align="center">
-  <img src="screenshot/home.png" width="250px">
-  <img src="screenshot/detected.png" width="250px">
+  <img src="screenshot/home.PNG" width="410px">
+  <img src="screenshot/detected.PNG" width="410px">
 </p>
